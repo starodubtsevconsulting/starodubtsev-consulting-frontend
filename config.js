@@ -14,15 +14,15 @@ module.exports = {
   socialLinks: [
     {
       style: 'brands',
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/starodubtsevconsulting',
+      icon: 'fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/sergii-starodubtsev-a4390b31/',
     },
     {
       style: 'brands',
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/starodubtsevconsulting',
+      url: 'https://twitter.com/starodubtsevco1',
     },
     {
       style: 'solid',
