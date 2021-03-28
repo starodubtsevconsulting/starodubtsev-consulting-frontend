@@ -39,11 +39,11 @@ const IndexPage = () => (
             <br />
           </h2>
           <p>
-            things that wok and last
+            Things that wok and last.&nbsp;
             <br />
-            design & architecture
+            Design & architecture. &nbsp;
             <br />
-            to make it right
+            Make it right.
           </p>
         </header>
         <ul className="icons major">
@@ -102,9 +102,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Observe
-            <br />
-            to see patterns
+            To see the patterns
           </h2>
           <p>
             There is always something more to see.
@@ -118,9 +116,7 @@ const IndexPage = () => (
         <header className="major">
           <h2>We provide services for those who dare to ask</h2>
           <p>
-            Get professional expertise
-            <br />
-            see the picture form different angle
+            Get yourself some of professional expertise to see the picture from different perspective.
           </p>
         </header>
         <ul className="features">
@@ -133,19 +129,19 @@ const IndexPage = () => (
           <li className="icon solid fa-laptop">
             <h3>Tech as it is</h3>
             <p>
-              Use right technology for the right moment. Don't make it be your bottle neck.
+              Use right technology for the right moment. Don't let it be your bottleneck.
             </p>
           </li>
           <li className="icon solid fa-code">
             <h3>Coding</h3>
             <p>
-              When it comes to codding, make sure it reflects you domain, your business, your goal. Not to be a thing in itself.
+              When it comes to codding, make sure it reflects you domain, your business and your goals. Not to be a thing in itself.
             </p>
           </li>
           <li className="icon solid fa-headphones-alt">
             <h3>Safe and sound</h3>
             <p>
-              Sometimes you have to do nothing. To be safe an sound.
+              Sometimes you have to do nothing. To be safe an sound. But sometimes you have to act.
             </p>
           </li>
           <li className="icon fa-heart">
@@ -169,7 +165,7 @@ const IndexPage = () => (
         <header>
           <h2>Sometimes</h2>
           <p>
-            All you need is look back and re-iterate.
+            All you need is look back and reiterate.
           </p>
         </header>
         <ul className="actions stacked">
