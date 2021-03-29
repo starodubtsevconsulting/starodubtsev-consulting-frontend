@@ -43,7 +43,7 @@ const IndexPage = () => (
             <br />
             Design & architecture. &nbsp;
             <br />
-            Make it right.
+            Making it right.
           </p>
         </header>
         <ul className="icons major">
@@ -87,9 +87,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            To relax
-            <br />
-            to get new ideas
+            Fishing for ideas.
           </h2>
           <p>
             Making it natural, no stress, to reflect
@@ -102,7 +100,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            To see the patterns
+            Seeing the patterns
           </h2>
           <p>
             There is always something more to see.
@@ -123,19 +121,19 @@ const IndexPage = () => (
           <li className="icon fa-paper-plane">
             <h3>Looking ahead</h3>
             <p>
-              Know where you are, to know how to look ahead.
+              Acknowledge where you are, to know how to look ahead.
             </p>
           </li>
           <li className="icon solid fa-laptop">
             <h3>Tech as it is</h3>
             <p>
-              Use right technology for the right moment. Don't let it be your bottleneck.
+              Use right technology for the right moment. Not being it your bottleneck.
             </p>
           </li>
           <li className="icon solid fa-code">
             <h3>Coding</h3>
             <p>
-              When it comes to codding, make sure it reflects you domain, your business and your goals. Not to be a thing in itself.
+              When it comes to codding, making it reflects the domain, the business and your goals. Not to be a thing in itself.
             </p>
           </li>
           <li className="icon solid fa-headphones-alt">
@@ -147,11 +145,11 @@ const IndexPage = () => (
           <li className="icon fa-heart">
             <h3>Put your heart</h3>
             <p>
-              Enjoy what you are doing. Otherwise do not call it "good job".
+              Enjoy what you are doing. Otherwise it is "good job".
             </p>
           </li>
           <li className="icon fa-flag">
-            <h3>Reach the goal</h3>
+            <h3>Reaching the goal</h3>
             <p>
               Get you what you aiming for. In reasonable time.
             </p>
