@@ -145,7 +145,7 @@ const IndexPage = () => (
           <li className="icon fa-heart">
             <h3>Put your heart</h3>
             <p>
-              Enjoy what you are doing. Otherwise it is "good job".
+              Enjoy what you are doing. Otherwise it is not "good job".
             </p>
           </li>
           <li className="icon fa-flag">
