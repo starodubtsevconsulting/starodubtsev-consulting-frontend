@@ -73,11 +73,11 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            To work
+            Work for the client
             <br />
           </h2>
           <p>
-            Making things clear, right and on time
+            Making things clear, right, and on time
           </p>
         </div>
       </section>
@@ -87,10 +87,10 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Fishing for ideas.
+            Fishing for ideas
           </h2>
           <p>
-            Making it natural, no stress, to reflect
+            Making it natural, no stress.
           </p>
         </div>
       </section>
