@@ -4,7 +4,7 @@ import Layout from '../components/Layout';
 
 import Scroll from '../components/Scroll';
 
-import pic1 from '../assets/images/pic01.jpg';
+import pic1 from '../assets/images/logo.png';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
 import config from '../../config';
@@ -13,16 +13,16 @@ const IndexPage = () => (
     <section id="banner">
       <div className="inner">
         <h2>{config.heading}</h2>
-        <p>{config.subHeading}</p>
-        <ul className="actions special">
-          <li>
-            <Scroll type="id" element="one">
-              <a href="/#" className="button primary">
-                Explore
-              </a>
-            </Scroll>
-          </li>
-        </ul>
+        {/*<p>{config.subHeading}</p>*/}
+        {/*<ul className="actions special">*/}
+        {/*  <li>*/}
+        {/*    <Scroll type="id" element="one">*/}
+        {/*      <a href="/#" className="button primary">*/}
+        {/*        Explore*/}
+        {/*      </a>*/}
+        {/*    </Scroll>*/}
+        {/*  </li>*/}
+        {/*</ul>*/}
       </div>
       <Scroll type="id" element="one">
         <a href="#one" className="more">
@@ -31,7 +31,7 @@ const IndexPage = () => (
       </Scroll>
     </section>
 
-    <section id="one" className="wrapper style1 special">
+    <section id="one" className="wrapper style2 special">
       <div className="inner">
         <header className="major">
           <h2>
@@ -161,23 +161,23 @@ const IndexPage = () => (
     <section id="cta" className="wrapper style4">
       <div className="inner">
         <header>
-          <h2>Sometimes</h2>
+          {/*<h2>Sometimes</h2>*/}
           <p>
-            All you need is look back and reiterate.
+            {/*All you need is look back and reiterate.*/}
           </p>
         </header>
-        <ul className="actions stacked">
-          <li>
-            <a href="/#" className="button fit primary">
-              Reiterate
-            </a>
-          </li>
-          <li>
-            <a href="/#" className="button fit">
-              Learn More
-            </a>
-          </li>
-        </ul>
+        {/*<ul className="actions stacked">*/}
+          {/*<li>*/}
+          {/*  <a href="/#" className="button fit primary">*/}
+          {/*    Reiterate*/}
+          {/*  </a>*/}
+          {/*</li>*/}
+          {/*<li>*/}
+          {/*  <a href="/#" className="button fit">*/}
+          {/*    Learn More*/}
+          {/*  </a>*/}
+          {/*</li>*/}
+        {/*</ul>*/}
       </div>
     </section>
   </Layout>
